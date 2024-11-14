@@ -8,8 +8,6 @@ print("Lowercase letters:", lowercase)
 
 uppercase = [char for char in text if char.isupper()]
 print("Uppercase letters:", uppercase)
-
-
-Output:
-Lowercase letters: ['e', 'l', 'l', 'o', 'o', 'r', 'l', 'd']
-Uppercase letters: ['H', 'W']
+#Output:
+#Lowercase letters: ['e', 'l', 'l', 'o', 'o', 'r', 'l', 'd']
+#Uppercase letters: ['H', 'W']
